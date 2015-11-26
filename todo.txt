@@ -1,0 +1,2 @@
+- Need to improve vim-airline
+- get auto-complete working
